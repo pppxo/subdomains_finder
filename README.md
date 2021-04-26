@@ -6,6 +6,7 @@ You need a python3 installed with the "requests" library.
 if you don't know how? just install lastest version of python from https://www.python.org/downloads/
 and then, you can type in the CMD:
   > pip install requests
+  
 Now, you are ready to go.
 
 # How to use
